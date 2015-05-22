@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.ts" Url="Scripts/App.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\App.js.map" Url="Scripts/App.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\appcontroller.ts" Url="Scripts/appcontroller.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\appcontroller.js" Url="Scripts/appcontroller.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\appcontroller.js.map" Url="Scripts/appcontroller.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular-mocks.js" Url="Scripts/angular-mocks.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js.map" Url="Scripts/angular.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js" Url="Scripts/angular.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.js" Url="Scripts/angular.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\SharePointService.ts" Url="Scripts/SharePointService.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\SharePointService.js" Url="Scripts/SharePointService.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\SharePointService.js.map" Url="Scripts/SharePointService.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\spnotify.ts" Url="Scripts/spnotify.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\spnotify.js" Url="Scripts/spnotify.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\spnotify.js.map" Url="Scripts/spnotify.js.map" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
